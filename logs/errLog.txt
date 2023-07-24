@@ -1,0 +1,15 @@
+20230722	15:51:15	84a0d3d9-ee77-41ce-9e4a-f9c5c8c3c0e1	SyntaxError: Unexpected token . in JSON at position 19
+20230722	16:20:09	ef6cd0cd-85b7-49d7-be6e-92ad9b31c663	TypeError: req.json is not a function
+20230722	16:20:10	883b9855-b902-4f8e-b7ea-b43e0d7aefd6	TypeError: req.json is not a function
+20230722	16:20:11	eefe7300-1d05-4be2-8d0c-75ff5812eebc	TypeError: req.json is not a function
+20230722	16:26:48	6e98729c-4616-4356-809e-5320c7f87d1e	SyntaxError: Unexpected token 
+ in JSON at position 12
+20230723	15:20:45	a67b01eb-60e5-44c7-bbbb-d2b79c8a8202	ReferenceError: decode is not defined
+20230723	19:19:41	795e5bfb-f691-42d7-898f-f96a3ee2937f	TypeError: Cannot read properties of undefined (reading 'startsWith')
+20230723	19:19:42	29148079-006c-4e09-9859-294253531fce	TypeError: Cannot read properties of undefined (reading 'startsWith')
+20230723	19:19:43	8ee70285-7e38-4f7f-8858-41953c748ba3	TypeError: Cannot read properties of undefined (reading 'startsWith')
+20230723	19:21:05	cb919550-7770-4062-8fb2-09b79f251c12	TypeError: Cannot read properties of undefined (reading 'startsWith')
+20230723	20:47:50	02032772-a507-417f-8712-23da77d24527	TypeError: req.roles.map is not a function
+20230723	20:47:58	9015ce2d-73b4-4738-ae7a-d96a2e290d39	TypeError: req.roles.map is not a function
+20230723	21:13:48	ddf36baf-7a9f-487e-8d84-8f6121c44a86	SyntaxError: Unexpected token b in JSON at position 11
+20230723	21:13:50	3dd4926d-7212-4d23-931d-37076f4cc199	SyntaxError: Unexpected token b in JSON at position 11
